@@ -33,15 +33,15 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/mohammadbashiri93
-twitter: https://twitter.com/mohb93
+facebook: mohammadbashiri93
+twitter: mohb93
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/mohammadbashiri
+github: mohammadbashiri
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -50,7 +50,7 @@ github: https://github.com/mohammadbashiri
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: mohammadbashiri93@gmail.com
 
 authors:
     johndoe:
