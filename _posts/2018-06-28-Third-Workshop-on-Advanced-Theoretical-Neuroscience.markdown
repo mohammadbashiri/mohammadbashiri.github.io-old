@@ -1,5 +1,5 @@
 ---
-title: ":ramen: Third workshop on advanced methods in theoretical neuroscience"
+title: "Third workshop on Advanced Methods in Theoretical Neuroscience"
 layout: post
 date: 2018-06-28 19:00
 image: /assets/images/markdown.jpg
@@ -37,3 +37,5 @@ author: Mohammad Bashiri
 
 ## External Links
 - [Workshop Webpage](http://www.wamtn.info/)
+
+***
