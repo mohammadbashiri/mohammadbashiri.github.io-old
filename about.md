@@ -4,8 +4,8 @@ layout: page
 ---
 <!--[Profile Image]({{ site.url }}/{{ site.picture }})-->
 
-![Profile Image]("assets/images/coc/mb1.jpg")
-<!--<img src="assets/images/coc/mb1.jpg">-->
+<!-- ![Profile Image]("assets/images/coc/mb1.jpg") -->
+<img src="assets/images/coc/mb1.jpg" alt="coc picture">
 
 <p>I am a neuroengineering graduate student at Technical University of Munich. I have done my bachelor in electrical and electronics engineering, in Malaysia. </p>
 
