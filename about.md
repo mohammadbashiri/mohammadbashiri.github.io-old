@@ -7,11 +7,11 @@ layout: page
 ![Profile Image](assets/images/profile.jpg)
 
 <p>
-	I am a neuroengineering graduate student at Technical University of Munich. My background is in electrical and electronics engineering. At the moment, I am in my 4th semester and exploring opportunities for master thesis. At the same time I am also working on development of virtual reality (VR) systems for freely moving rodents, in <a href="http://cogneuro.bio.lmu.de/" target="_blank">SirotaLab (Cognition and Neural Plasticity)</a>.
+	I am a neuroengineering graduate student at Technical University of Munich (TUM). My background is in electrical and electronics engineering. At the moment, I am in my 4th semester and exploring opportunities for master thesis. At the same time, I am working on development of a virtual reality (VR) system for freely moving rodents, in <a href="http://cogneuro.bio.lmu.de/" target="_blank">SirotaLab (Cognition and Neural Plasticity)</a> at Ludwig Maximillian University (LMU).
 </p>
 
 <p>
-	My research interest is in computational Neuroscience and brain stimulation, as well as developing research tools for neuroscientists. To know more about my activities please visit <a href="https://mohammadbashiri.github.io/blog/">blog</a> section. And to know more about my projects please visit <a href="https://mohammadbashiri.github.io/projects/">projects</a> section.
+	My research interest lies in cognitive computational neuroscience and brain stimulation, as well as developing research tools for neuroscientists. To know more about my activities please visit <a href="https://mohammadbashiri.github.io/blog/">blog</a> section. And to know more about my projects please visit <a href="https://mohammadbashiri.github.io/projects/">projects</a> section.
 </p>
 
 <h2>Skills</h2>
@@ -58,5 +58,5 @@ layout: page
 -->
 
 <p>
-	For a more detailed description of my skills please check out my <a href="https://mohammadbashiri.github.io/assets/Bashiri-Resume.png" target="_blank">resume</a>.I am always happy to converse over new ideas, possibilities and project opportunities and potentially collaborations for common project, no matter where you reside in the world. Please do no hesistate to contact me using any of the communication channels available in the <a href="https://mohammadbashiri.github.io/">homepage</a>.
+	For a more detailed description of my academic background and projects please check out my <a href="https://mohammadbashiri.github.io/assets/Bashiri-Resume.png" target="_blank">resume</a>.I am always happy to converse over new ideas, possibilities and project opportunities and potentially collaborations for common project, no matter where you reside in the world. Please do no hesistate to contact me using any of the communication channels available in the <a href="https://mohammadbashiri.github.io/">homepage</a>.
 </p>
