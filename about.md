@@ -4,8 +4,7 @@ layout: page
 ---
 <!--[Profile Image]({{ site.url }}/{{ site.picture }})-->
 
-<!-- ![Profile Image]("assets/images/coc/mb1.jpg") -->
-<img src="assets/images/coc/mb1.jpg" alt="coc picture">
+![Profile Image](assets/images/coc/mb1.jpg)
 
 <p>I am a neuroengineering graduate student at Technical University of Munich. I have done my bachelor in electrical and electronics engineering, in Malaysia. </p>
 
@@ -26,11 +25,16 @@ layout: page
 </ul>
 
 <h2>Publications</h2>
+
+<ul>
 	<li>EEG-based Brain Connectivity Analysis of Attention and Working Memory</li>
 	<li>A Tractography Analysis for Electroconvulsive Therapy</li>
 	<li>CSS (Stylus, Sass, Less)</li>
+</ul>
 
 <h2>Hobbies</h2>
+
+<ul>
 	<li>HTML - Jade - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
 </ul>
