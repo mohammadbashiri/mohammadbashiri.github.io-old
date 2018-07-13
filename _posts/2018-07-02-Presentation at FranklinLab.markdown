@@ -7,7 +7,7 @@ tag:
 - FranklinLab
 - Journal Club
 category: blog
-author: Mohammad Bashiri
+author: mohammadbashiri
 ---
 
 ## Population coding of conditional probability distributions in dorsal premotor cortex

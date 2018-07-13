@@ -5,7 +5,7 @@ date: 2018-06-28 19:00
 image: /assets/images/markdown.jpg
 headerImage: false
 category: blog
-author: Mohammad Bashiri
+author: mohammadbashiri
 ---
 
 ## Outline
