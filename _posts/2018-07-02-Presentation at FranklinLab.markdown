@@ -6,7 +6,7 @@ tag:
 - Presentation
 - FranklinLab
 - Journal Club
-category:
+category: blog
 author: Mohammad Bashiri
 ---
 
