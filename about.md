@@ -41,7 +41,7 @@ layout: page
 <h2>Publications</h2>
 
 <ul>
-	<li>EEG-based Brain Connectivity Analysis of Attention and Working Memory <a href="https://ieeexplore.ieee.org/document/7435890/">(link)</a>.</li>
+	<li>EEG-based Brain Connectivity Analysis of Attention and Working Memory <a href="https://ieeexplore.ieee.org/document/7435890/" target="_blank">(link)</a>.</li>
 	<li>A Tractography Analysis for Electroconvulsive Therapy</li>
 </ul>
 
