@@ -48,8 +48,8 @@ Answers in short:
 
 ### My take on the paper
 
-What I like about the paper is that it combines behavior with neural data. Some of the results in the paper illustrate the contribution of "potential neurons" for forming priors on possible target (before target presentation) and then updating those priors once the target is present. This is mainly concerned with the motor planning. On the other had, we also have motor learning (changing of such priors on the possible upcoming target locations) which is also depicted in the result of the paper for the visuomotor adaptation task. Although not thoroughly discussed in the paper, I think this paper shows some real result for the Bayesian Brain hypothesis both on the behavioral and neural lavel for a specific task/condition.
+What I like about the paper is that it combines behavior with neural data. Some of the results in the paper illustrate the contribution of "potential neurons" for forming priors on possible targets (before target presentation) and then updating those priors once the target is present. This is mainly concerned with the motor planning. On the other had, we also have motor learning (changing of such priors on the possible upcoming target locations) which is also depicted in the result for the visuomotor adaptation task. Although not thoroughly discussed in the paper, I think this paper shows some real result for the Bayesian Brain hypothesis both on the behavioral and neural lavel for a specific task/condition.
 
-Finally, I would like to appreciate Franklin Lab for giving the opportunity to present the paper in their weekly journal club, as well as the nice discussion and their very very helpful feedback.
+Finally, I would like to appreciate Franklin Lab for the opportunity to present the paper in their weekly journal club, as well as the nice discussion and their very very helpful feedback.
 
 [link]: https://www.nature.com/articles/s41467-018-04062-6
