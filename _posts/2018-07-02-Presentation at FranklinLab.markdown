@@ -12,7 +12,7 @@ author: mohammadbashiri
 
 ## Population Coding of Conditional Probability Distributions in Dorsal Premotor Cortex
 
-Today I presented a new paper at Franklin Lab (Sport department, Technical University of Munich) about a paper [1] recently publish by <a href="http://kordinglab.com/">KordingLab</a> in Nature Communication.
+Today I presented a new paper at Franklin Lab (Sport department, Technical University of Munich) about a paper ([link]) recently publish by <a href="http://kordinglab.com/">KordingLab</a> in Nature Communication.
 
 The authors of the paper are Joshua I. Glaser, Matthew G. Perich, Pavan Ramkumar, Lee E. Miller & Konrad P. Kording
 
@@ -30,7 +30,13 @@ More specifically we are interested in the followings:
 - Are these neurons really representing upcoming movements? or they just happen to have an activity that matches our hypothesis (control)
 
 
+The task:
 
+
+
+Answers in short:
+
+- 
 
 
 [1]: https://www.nature.com/articles/s41467-018-04062-6
