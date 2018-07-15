@@ -12,7 +12,7 @@ author: mohammadbashiri
 
 ## Population Coding of Conditional Probability Distributions in Dorsal Premotor Cortex
 
-Today I presented a new paper at Franklin Lab (Sport department, Technical University of Munich) about a paper ([link]) recently publish by <a href="http://kordinglab.com/" terget="_balnk">KordingLab</a> in Nature Communication.
+Today I presented a new paper ([link]) at Franklin Lab (Sport department, Technical University of Munich) which was recently publish by <a href="http://kordinglab.com/" terget="_balnk">KordingLab</a> in Nature Communication.
 
 The authors of the paper are Joshua I. Glaser, Matthew G. Perich, Pavan Ramkumar, Lee E. Miller & Konrad P. Kording
 
@@ -24,9 +24,9 @@ More specifically, we are interested in the followings:
 
 - How does such distribution effect the behavioral performance
 - If the probability of possible upcoming movements effect our behavior, how is that information encoded on the neural level?
-- Where in the cortex such neurons exist? (primary motor cortex versions dorsal premotor cortex)
+- Where in the cortex such neurons exist? (primary motor cortex and/or dorsal premotor cortex)
 - Single neuron versus population coding of the probability distirbution
-- is the confidence in the upcoming target, position dependent (distance w.r.t the center of the workspace)?
+- Is the confidence in the upcoming target, position dependent (distance w.r.t the center of the workspace)?
 - Are these neurons really representing upcoming movements? or they just happen to have an activity that matches our hypothesis (control)
 
 
@@ -43,9 +43,13 @@ Answers in short:
 
 - The confidence of such distribution (decoded from neural activity) increases (lower std deviation) as we move further from the center and closer to the border, which actually means neural activity is eliciting a statistical representation of possible upcoming movements.
 
-- as a control a visuomotor task was perform. In short, the idea is that if neurons are representating a probablity distribution of possible upcoing movements given the physical state of our body in the environment, then if we now rotate the target, while keeping it visually similar, the probability distributions should also rotate. And they do!
+- As a control a visuomotor task was perform. In short, the idea is that if neurons are representating a probablity distribution of possible upcoing movements given the physical state of our body in the environment, then if we now rotate the target, while keeping it visually similar, the probability distributions should also rotate. And they do!
 
+
+### My take on the paper
+
+What I like about the paper is that it combines behavior with neural data. Some of the results in the paper illustrate the contribution of "potential neurons" for forming priors on possible target (before target presentation) and then updating those priors once the target is present. This is mainly concerned with the motor planning. On the other had, we also have motor learning (changing of such priors on the possible upcoming target locations) which is also depicted in the result of the paper for the visuomotor adaptation task. Although not thoroughly discussed in the paper, I think this paper shows some real result for the Bayesian Brain hypothesis both on the behavioral and neural lavel for a specific task/condition.
+
+Finally, I would like to appreciate Franklin Lab for giving the opportunity to present the paper in their weekly journal club, as well as the nice discussion and their very very helpful feedback.
 
 [link]: https://www.nature.com/articles/s41467-018-04062-6
-
-## 
