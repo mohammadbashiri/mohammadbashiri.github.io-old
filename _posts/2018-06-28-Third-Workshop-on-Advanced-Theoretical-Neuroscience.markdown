@@ -8,15 +8,6 @@ category: blog
 author: mohammadbashiri
 ---
 
-## Outline
-- [What was it about](#what-was-it-about)
-- [Day 1](#day-1)
-- [Day 2](#day-2)
-- [Day 3](#day-3)
-- [My Poster](#my-poster)
-- [My Experience](#my-experience)
-- [External Links](#external-links)
-
 ## What was it about
 The workshop was about computational theory of neuronal circuits and information processing in neural networks. Considering that we are dealing with a noisy nonlinear system both spatially and temporally, this requires using power mathematical techniques. Hence, the focus of the workshop was on the inherent difficulties of studying the spatiotemporal neural circuit dynamics.
 
@@ -38,5 +29,3 @@ Being among world-renowned researchers and talented PostDoc and PhD candidates f
 
 ## External Links
 - [Workshop Webpage](http://www.wamtn.info/)
-
-***
