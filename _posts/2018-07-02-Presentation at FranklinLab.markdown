@@ -46,6 +46,6 @@ Answers in short:
 - as a control a visuomotor task was perform. In short, the idea is that if neurons are representating a probablity distribution of possible upcoing movements given the physical state of our body in the environment, then if we now rotate the target, while keeping it visually similar, the probability distributions should also rotate. And they do!
 
 
-[1]: https://www.nature.com/articles/s41467-018-04062-6
+[link]: https://www.nature.com/articles/s41467-018-04062-6
 
 ## 
