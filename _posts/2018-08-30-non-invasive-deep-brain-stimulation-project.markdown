@@ -50,7 +50,7 @@ following:
 
 ## Neuron response
 
-Once we hae an E-field distribution, we probably want to see how would a neuron respond to
+Once we have an E-field distribution, we probably want to see how would a neuron respond to
 such electric field at different locations (after all that is the whole point - stimulating
 neurons). Let us see the input and response of a neuron that is located at the center of
 the distribution shown above.
@@ -60,7 +60,7 @@ the distribution shown above.
 ## Neuron models
 
 Here I have included several neuron models, which enables me to test the method for different
-neruons models (essentially for different membrane characteristics). Neuron models included in
+neurons models (essentially for different membrane characteristics). Neuron models included in
 this repo are:
 
 * Hodgkin Huxley (tuned to mammals) - implement in Matlab and Python
