@@ -92,3 +92,7 @@ the change, push it to your own remote repo, make a pull request to my repo.
 ### Reference
 [1] N. Grossman et al., “Noninvasive Deep Brain Stimulation via Temporally Interfering Electric Fields,” Cell, vol. 169, no. 6,
 p. 1029–1041.e16, 2017.
+
+---
+
+You can find the codes for this project on my github, [here](https://github.com/mohammadbashiri/non-invasive-deep-brain-stimulation).
