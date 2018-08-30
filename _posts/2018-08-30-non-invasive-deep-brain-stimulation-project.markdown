@@ -68,27 +68,6 @@ this repo are:
 * Auditory brainstem - implemented in Matlab
 * Izhikevich - implemented in Python
 
-## Running the codes
-
-To familiarize with, and run, the codes do the following steps:
-
-* Clone the repo
-* Install the dependencies
-    ```bash
-    $ pip install numpy scipy matplotlib ipython jupyterlab
-    ```
-* Go through the examples. Examples are available in the corresponding Python and Matlab folders.
-
-### You see a bug?
-
-If you see anything wrong with the code, or you would like to suggest a change, I would be more
-than happy to communicate. There are two ways to communicate (and/or contribute):
-- Easiest way (which might also take some time for the change to be implemented) is to
-email me at mohammadbashiri93@gmail.com, with the description of the problem you are facing.
-- Through Git
-- Fork the repo, clone it from your own account, make a (descriptive) branch, implement
-the change, push it to your own remote repo, make a pull request to my repo.
-
 ### Reference
 [1] N. Grossman et al., “Noninvasive Deep Brain Stimulation via Temporally Interfering Electric Fields,” Cell, vol. 169, no. 6,
 p. 1029–1041.e16, 2017.
