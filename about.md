@@ -11,7 +11,8 @@ layout: page
 </p>
 
 <p>
-	My research interest lies in cognitive computational neuroscience and brain stimulation, as well as developing research tools for neuroscientists. To know more about my activities please visit <a href="https://mohammadbashiri.github.io/blog/">blog</a> section. And to know more about my projects please visit <a href="https://mohammadbashiri.github.io/projects/">projects</a> section.
+	My research interest lies in cognitive computational neuroscience, probabilistic modeling, Bayesian inference, and brain stimulation, as well as developing research tools for neuroscientists. 
+	To know more about my activities please visit <a href="https://mohammadbashiri.github.io/blog/">blog</a> section. And to know more about my projects please visit <a href="https://mohammadbashiri.github.io/projects/">projects</a> section.
 </p>
 
 <h2>Skills</h2>
@@ -38,7 +39,7 @@ layout: page
 	<li><a href="https://github.com/mohammadbashiri/attention-eeg" target="_blank">Attention EEG</a></li>
 	<li><a href="https://github.com/mohammadbashiri/vrlatency" target="_blank">VRLatency</a></li>
 	<li><a href="https://github.com/mohammadbashiri/non-invasive-deep-brain-stimulation" taget="_blank">Non-invasive Deep Brain Stimulation: Computational Modeling</a></li>
-	<li><a href="https://github.com/mohammadbashiri/talktracker" target="_balnk">TalktTracker</a></li>
+	<li><a href="https://github.com/mohammadbashiri/talktracker" target="_balnk">TalkTracker</a></li>
 </ul>
 
 <h2>Publications</h2>
