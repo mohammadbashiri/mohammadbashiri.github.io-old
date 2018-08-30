@@ -46,7 +46,7 @@ interested). Fir this purpose, you can choose the electrode configuration you wo
 see the distribution for, and run the code. An example of the output might look like the
 following:
 
-![e_field](https://raw.githubusercontent.com/mohammadbashiri/non-invasive-deep-brain-stimulation/blob/master/Figures/E-field_example.png)
+![e_field](https://github.com/mohammadbashiri/non-invasive-deep-brain-stimulation/blob/master/Figures/Head_model_Concept.png?raw=true)
 
 ## Neuron response
 
