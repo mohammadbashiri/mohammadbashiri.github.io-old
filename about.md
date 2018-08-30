@@ -34,8 +34,11 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/mohammadbashiri/BayesianMotorAdaptation" target="_blank">Bayesian Motor Adaptation</a></li>
+	<li><a href="https://github.com/mohammadbashiri/bayesian-motor-adaptation" target="_blank">Bayesian Motor Adaptation</a></li>
+	<li><a href="https://github.com/mohammadbashiri/attention-eeg" target="_blank">Attention EEG</a></li>
 	<li><a href="https://github.com/mohammadbashiri/vrlatency" target="_blank">VRLatency</a></li>
+	<li><a href="https://github.com/mohammadbashiri/non-invasive-deep-brain-stimulation" taget="_blank">Non-invasive Deep Brain Stimulation: Computational Modeling</a></li>
+	<li><a href="https://github.com/mohammadbashiri/talktracker" target="_balnk">TalktTracker</a></li>
 </ul>
 
 <h2>Publications</h2>
