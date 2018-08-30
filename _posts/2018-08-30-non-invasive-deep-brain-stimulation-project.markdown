@@ -14,11 +14,7 @@ author: mohammadbashiri
 externalLink: false
 ---
 
-# Non-Invasive Deep Brain Stimulation
-
-This repository contains all the code used for simulation of non-invasive Deep Brain Stimulation (DBS) via Temporal Interference (TI).
-
-## About the project
+## Introduction
 
 The project is inspired by a paper published on June 2017 [1], which proposed a new
 method for Non-invasive DBS via two (or more) temporally interfering signals. Using the
@@ -32,7 +28,7 @@ Given that you have an E-field distribution from finite-element analysis (FEA) o
 which was also part of this project (but not covered here), a different script could be used to visualize
 the distribution.
 
-A a summary, the main focus of this repository is two-fold:
+A a summary, the main focus of this project (and the codes) is two-fold:
 - Visualization of E-field distribution either generated from FEA or an analytical solution
 - Testing the response of different neuron models at different locations within the E-field
 distribution
