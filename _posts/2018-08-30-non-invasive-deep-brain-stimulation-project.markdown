@@ -6,7 +6,7 @@ tag:
 - Non-invasive DBS
 - Temporal Interference
 - Finite-element analysis
-projects: true
+category: blog
 hidden: false
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 author: mohammadbashiri
