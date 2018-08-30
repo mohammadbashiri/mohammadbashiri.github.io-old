@@ -26,10 +26,7 @@ codes available in this repo, one can visualize the distribution of electric fie
 a spherical head model. Furthermore, using the computed electric field distribution, we
 can also see the response of neurons at any point in the conductive medium (head model).
 
-<p align="center">
-	<br>
-	<img src="https://github.com/mohammadbashiri/non-invasive-deep-brain-stimulation/blob/master/Figures/Head_model_Concept.png" alt="model_concept">
-</p>
+![model_concept](https://raw.githubusercontent.com/mohammadbashiri/non-invasive-deep-brain-stimulation/blob/master/Figures/Head_model_Concept.png)
 
 Given that you have an E-field distribution from finite-element analysis (FEA) of any arbitrary head model,
 which was also part of this project (but not covered here), a different script could be used to visualize
@@ -49,7 +46,7 @@ interested). Fir this purpose, you can choose the electrode configuration you wo
 see the distribution for, and run the code. An example of the output might look like the
 following:
 
-![e_field](https://github.com/mohammadbashiri/non-invasive-deep-brain-stimulation/blob/master/Figures/E-field_example.png)
+![e_field](https://raw.githubusercontent.com/mohammadbashiri/non-invasive-deep-brain-stimulation/blob/master/Figures/E-field_example.png)
 
 ## Neuron response
 
@@ -58,7 +55,7 @@ such electric field at different locations (after all that is the whole point - 
 neurons). Let us see the input and response of a neuron that is located at the center of
 the distribution shown above.
 
-![neuron_response](https://github.com/mohammadbashiri/non-invasive-deep-brain-stimulation/blob/master/Figures/Neuron_response.png)
+![neuron_response](https://raw.githubusercontent.com/mohammadbashiri/non-invasive-deep-brain-stimulation/blob/master/Figures/Neuron_response.png)
 
 ## Neuron models
 
