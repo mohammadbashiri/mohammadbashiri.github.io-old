@@ -53,7 +53,7 @@ desired trajectory. Hence, we would biologically compute the most likely force t
 rise to the observed trajectory (i.e., likelihood). Assuming that our sensory system is functioning
 well, we should be able to, roughly, estimate the force that is applied by force field on out hand.
 Since the force field is a function of the hand velocity (i.e., the state variable), we can construct
-the likelihood as a Gaussian that has a mean around appleid force by the force field, and a variance
+the likelihood as a Gaussian that has a mean around applied force by the force field, and a variance
 that expresses the uncertainty in our sensory input. Hence the likelihood would be:
 
 
@@ -66,7 +66,7 @@ which is then used as the prior in the next trial for the same state.
 ![bayes](https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/bayes.JPG?raw=true)
 
 Moreover, due to generalization, this posterior, which is an update for the prior of this specific state,
-would change the priors for other states, including the onses within the same trial.
+would change the priors for other states, including the ones within the same trial.
 
 #### An example
 
@@ -129,7 +129,7 @@ specific trials for the whole trajectory. Figure 6 shows the coverage percentage
 
 
 ![ForceCompensation](https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/ForceCompensation.jpg?raw=true)
-<figcaption class="caption">Fig 5. Froce compensation percentage over trials.</figcaption>
+<figcaption class="caption">Fig 5. Force compensation percentage over trials.</figcaption>
 
 
 Below is a short illustration of simulation without generalization.
