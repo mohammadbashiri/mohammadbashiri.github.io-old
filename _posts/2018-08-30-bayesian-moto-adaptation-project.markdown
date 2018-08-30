@@ -152,4 +152,4 @@ invaluable support for the course, as well as the project.
 
 ---
 
-You can find the codes for this project on my github, [here](https://github.com/mohammadbashiri/bayesian-motor-adaptation).
+You can find the codes for this project on my Github account, [here](https://github.com/mohammadbashiri/bayesian-motor-adaptation).

@@ -70,4 +70,4 @@ p. 1029–1041.e16, 2017.
 
 ---
 
-You can find the codes for this project on my github, [here](https://github.com/mohammadbashiri/non-invasive-deep-brain-stimulation).
+You can find the codes for this project on my Github account, [here](https://github.com/mohammadbashiri/non-invasive-deep-brain-stimulation).
