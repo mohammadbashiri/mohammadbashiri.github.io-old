@@ -1,7 +1,7 @@
 ---
 title: "Bayesian Motor Adaptation"
 layout: post
-date: 2016-01-23 22:10
+date: 2018-05-25 00:00
 tag:
 - Motor Learning
 - Bayesian inference

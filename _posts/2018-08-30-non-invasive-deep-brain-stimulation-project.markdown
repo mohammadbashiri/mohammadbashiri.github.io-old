@@ -1,7 +1,7 @@
 ---
 title: "Non-invasive Deep Brain Stimulation via Temporal Interference: A Computational Study"
 layout: post
-date: 2016-01-23 22:10
+date: 2018-04-20 22:10
 tag:
 - Non-invasive DBS
 - Temporal Interference
