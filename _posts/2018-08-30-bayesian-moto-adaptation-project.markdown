@@ -13,14 +13,6 @@ author: mohammadbashiri
 externalLink: false
 ---
 
-<h1 align="center">
-    <dev>
-    Bayesian Motor Adaptation
-    </dev>
-    <img src="https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/logo.png" alt="logo" heigt="50" width="50">
-</h1>
-
-
 #### Disclaimer
 This is a short report of a mini project which was done as part of a course
 called ***Computational Mechanisms of Learning*** in Technical University of Munich.
@@ -49,11 +41,9 @@ subject exhibits a specific velocity to move towards the goal (or desired trajec
 Hence, we can consider every point, along the trajectory, **a state** with the state
 variable **hand velocity**.
 
-<p align="center">
-	<br>
-	<img src="https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/workspace.jpg" alt="Fig1" height="250" width="250">
-    <figcaption align="center"> Fig 1. - A view of a workspace. black dot is the starting point, and the red dots are the possible targets.</figcaption>
-</p>
+![neuron_response](https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/workspace.jpg?raw=true)
+<figcaption class="caption">Fig 1. - A view of a workspace. black dot is the starting point, and the red dots are the possible targets.</figcaption>
+
 
 In every state (i.e., specific velocity in x and y direction), we expect a force (the prior)
 on our hand, and to counteract the force we would apply a force opposite to that, which
@@ -105,6 +95,8 @@ shows the observed trajectory in velocity space.
 
 Now, after interacting with the force field, we have a posterior of the force distribution given a specific velocity
 state, and we need to update out belief about the force that is expected, given this state.
+
+
 
 <p align="center">
 	<br>
