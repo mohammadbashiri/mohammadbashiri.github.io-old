@@ -41,7 +41,7 @@ subject exhibits a specific velocity to move towards the goal (or desired trajec
 Hence, we can consider every point, along the trajectory, **a state** with the state
 variable **hand velocity**.
 
-![neuron_response](https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/workspace.jpg?raw=true)
+![workspace](https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/workspace.jpg?raw=true)
 <figcaption class="caption">Fig 1. - A view of a workspace. black dot is the starting point, and the red dots are the possible targets.</figcaption>
 
 
@@ -56,18 +56,14 @@ Since the force field is a function of the hand velocity (i.e., the state variab
 the likelihood as a Gaussian that has a mean around appleid force by the force field, and a variance
 that expresses the uncertainty in our sensory input. Hence the likelihood would be:
 
-<p align="center">
-	<br>
-	<img src="https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/likelihood.JPG" alt="formula1">
-</p>
 
-After esitmating the applied force, we would then update our prior, resulting in a posterior distribution,
+![likelihood](https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/likelihood.JPG?raw=true)
+
+
+After estitmating the applied force, we would then update our prior, resulting in a posterior distribution,
 which is then used as the prior in the next trial for the same state.
 
-<p align="center">
-	<br>
-	<img src="https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/bayes.JPG" alt="formula2">
-</p>
+![bayes](https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/bayes.JPG?raw=true)
 
 Moreover, due to generalization, this posterior, which is an update for the prior of this specific state,
 would change the priors for other states, including the onses within the same trial.
@@ -83,29 +79,14 @@ updating our belief about the environment dynamics we are interacting with. Figu
 a desired trajectory and observed trajectory (influenced by the force field) in position space. Figure 2b
 shows the observed trajectory in velocity space.
 
-
-<p align="center">
-	<br>
-	<img src="https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/state_variable_trajectory.png" alt="Fig1">
-    <figcaption align="center">
-        Fig 2. (left) trajectory in velocity space while exposed. (right) trajectory in position space in null field (green)
-        versus force field (red)
-    </figcaption>
-</p>
+![state_variable_trajectory](https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/state_variable_trajectory.png?raw=true)
+<figcaption class="caption">Fig 2. (left) trajectory in velocity space while exposed. (right) trajectory in position space in null field (green) versus force field (red).</figcaption>
 
 Now, after interacting with the force field, we have a posterior of the force distribution given a specific velocity
 state, and we need to update out belief about the force that is expected, given this state.
 
-
-
-<p align="center">
-	<br>
-	<img src="https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/exploded.png" alt="Fig1">
-    <figcaption align="center">
-        Fig 3. An exploded view of the force distribution for a single state, including an example of updating the "belief".
-    </figcaption>
-</p>
-
+![exploded](https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/exploded.png?raw=true)
+<figcaption class="caption">Fig 3. An exploded view of the force distribution for a single state, including an example of updating the "belief".</figcaption>
 
 Note that in Figure 3 which illustrates the update of prior force distribution given a specific state, the generalization
 is ignored - not only we use the posterior of state 1 to update the prior for future states, but also future states would
@@ -143,36 +124,21 @@ force compensation and the higher the percentage of coverage of ideal force comp
 force compensation, the better. Figure 5 shows the force compensation exhibited by the simulation of our model for
 specific trials for the whole trajectory. Figure 6 shows the coverage percentage over many trials.
 
-<p align="center">
-	<br>
-	<img src="https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/ForceTrials.png" alt="Fig4">
-    <figcaption align="center">
-        Fig 4. force compensation during trajectory for trial number 1, 10, 20, 30, and 50
-    </figcaption>
-</p>
+![ForceTrials](https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/ForceTrials.png?raw=true)
+<figcaption class="caption">Fig 4. force compensation during trajectory for trial number 1, 10, 20, 30, and 50.</figcaption>
 
-<p align="center">
-	<br>
-	<img src="https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/ForceCompensation.jpg" alt="Fig5">
-    <figcaption align="center">
-        Fig 5. Froce compensation percentage over trials
-    </figcaption>
-</p>
+
+![ForceCompensation](https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/ForceCompensation.jpg?raw=true)
+<figcaption class="caption">Fig 5. Froce compensation percentage over trials.</figcaption>
 
 
 Below is a short illustration of simulation without generalization.
 
-<p align="center">
-	<br>
-	<img src="https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/sim_wo_gen.gif" alt="Fig6">
-</p>
+![sim_wo_gen](https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/sim_wo_gen.gif?raw=true)
 
 Below is a short illustration of simulation with generalization.
 
-<p align="center">
-	<br>
-	<img src="https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/sim_w_gen.gif" alt="Fig7">
-</p>
+![sim_w_gen](https://github.com/mohammadbashiri93/BayesianMotorAdaptation/blob/master/Figures/sim_w_gen.gif?raw=true)
 
 ### Acknowledgment
 
@@ -185,4 +151,4 @@ invaluable support for the course, as well as the project.
 
 ---
 
-You can find the codes for this project on my github, [here](https://github.com/mohammadbashiri/non-invasive-deep-brain-stimulation).
+You can find the codes for this project on my github, [here](https://github.com/mohammadbashiri/bayesian-motor-adaptation).
