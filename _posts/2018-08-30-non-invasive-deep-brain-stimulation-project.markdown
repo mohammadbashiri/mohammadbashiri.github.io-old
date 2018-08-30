@@ -1,16 +1,17 @@
 ---
 title: "Non-invasive Deep Brain Stimulation via Temporal Interference: A Computational Study"
 layout: post
-date: 2018-04-20 00:00
+date: 2016-01-23 22:10
 tag:
 - Non-invasive DBS
 - Temporal Interference
 - Finite-element analysis
-category: blog
+projects: true
 hidden: false
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "A project on modeling the effect of non-invasive deep brain stimulation via temporal interference on neurons with different membrane characteristics."
+category:
 author: mohammadbashiri
-externalLink: true
+externalLink: false
 ---
 
 # Non-Invasive Deep Brain Stimulation
